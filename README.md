@@ -1,3 +1,3 @@
-# Linguagem-C
+# Linguagem C
 
-# Listas de Exercícios resolvidos em C
+Listas de Exercícios resolvidos em C
